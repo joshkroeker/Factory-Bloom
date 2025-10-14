@@ -56,5 +56,3 @@ The following diagrams summarize the technical structure and runtime data flow:
 - Highlight modular design suitable for both technical interviews and production workflows.  
 
 ---
-
-## 📂 Repository Structure (Suggested)
